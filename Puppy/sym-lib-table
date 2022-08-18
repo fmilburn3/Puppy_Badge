@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name E_Grrrl-cache)(type Legacy)(uri ${KIPRJMOD}/E_Grrrl-cache.lib)(options "")(descr ""))
+  (lib (name Firefly)(type Legacy)(uri D:/Projects/Element_14/PCB_Art/Firefly/PCB/Firefly.lib)(options "")(descr ""))
+  (lib (name E_Grrrl-rescue)(type Legacy)(uri ${KIPRJMOD}/E_Grrrl-rescue.lib)(options "")(descr ""))
+  (lib (name E_Grrrl_V0-cache)(type Legacy)(uri ${KIPRJMOD}/E_Grrrl_V0-cache.lib)(options "")(descr ""))
+  (lib (name E_Grrrl_V0-rescue)(type Legacy)(uri ${KIPRJMOD}/E_Grrrl_V0-rescue.lib)(options "")(descr ""))
+  (lib (name Rosie_SMD-rescue)(type Legacy)(uri ${KIPRJMOD}/Rosie_SMD-rescue.lib)(options "")(descr ""))
+)
